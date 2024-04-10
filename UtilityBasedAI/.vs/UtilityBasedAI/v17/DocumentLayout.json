@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}|UtilityBasedAI\\UtilityBasedAI.csproj|E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\utilitybasedai\\characterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}|UtilityBasedAI\\UtilityBasedAI.csproj|solutionrelative:utilitybasedai\\characterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}|UtilityBasedAI\\UtilityBasedAI.csproj|E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\utilitybasedai\\coverutilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}|UtilityBasedAI\\UtilityBasedAI.csproj|solutionrelative:utilitybasedai\\coverutilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}|UtilityBasedAI\\UtilityBasedAI.csproj|E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\utilitybasedai\\iutilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}|UtilityBasedAI\\UtilityBasedAI.csproj|solutionrelative:utilitybasedai\\iutilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}|UtilityBasedAI\\UtilityBasedAI.csproj|E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\utilitybasedai\\idleutilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}|UtilityBasedAI\\UtilityBasedAI.csproj|solutionrelative:utilitybasedai\\idleutilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}|UtilityBasedAI\\UtilityBasedAI.csproj|e:\\sourcetreerepositories\\utilitybasedailib\\utilitybasedai\\utilitybasedai\\attackutilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}|UtilityBasedAI\\UtilityBasedAI.csproj|solutionrelative:utilitybasedai\\attackutilitycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B8A216-C53F-4582-9AA5-2495747B175A}|UtilityBasedAIUsage\\UtilityBasedAIUsage.csproj|E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\utilitybasedaiusage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B8A216-C53F-4582-9AA5-2495747B175A}|UtilityBasedAIUsage\\UtilityBasedAIUsage.csproj|solutionrelative:utilitybasedaiusage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUtilityCalculator.cs",
+              "DocumentMoniker": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\UtilityBasedAI\\IUtilityCalculator.cs",
+              "RelativeDocumentMoniker": "UtilityBasedAI\\IUtilityCalculator.cs",
+              "ToolTip": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\UtilityBasedAI\\IUtilityCalculator.cs",
+              "RelativeToolTip": "UtilityBasedAI\\IUtilityCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:45:17.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdleUtilityCalculator.cs",
+              "DocumentMoniker": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\UtilityBasedAI\\IdleUtilityCalculator.cs",
+              "RelativeDocumentMoniker": "UtilityBasedAI\\IdleUtilityCalculator.cs",
+              "ToolTip": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\UtilityBasedAI\\IdleUtilityCalculator.cs",
+              "RelativeToolTip": "UtilityBasedAI\\IdleUtilityCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:42:43.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttackUtilityCalculator.cs",
+              "DocumentMoniker": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\UtilityBasedAI\\AttackUtilityCalculator.cs",
+              "RelativeDocumentMoniker": "UtilityBasedAI\\AttackUtilityCalculator.cs",
+              "ToolTip": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\UtilityBasedAI\\AttackUtilityCalculator.cs",
+              "RelativeToolTip": "UtilityBasedAI\\AttackUtilityCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:42:36.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoverUtilityCalculator.cs",
+              "DocumentMoniker": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\UtilityBasedAI\\CoverUtilityCalculator.cs",
+              "RelativeDocumentMoniker": "UtilityBasedAI\\CoverUtilityCalculator.cs",
+              "ToolTip": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\UtilityBasedAI\\CoverUtilityCalculator.cs",
+              "RelativeToolTip": "UtilityBasedAI\\CoverUtilityCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:42:29.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\UtilityBasedAIUsage\\Program.cs",
+              "RelativeDocumentMoniker": "UtilityBasedAIUsage\\Program.cs",
+              "ToolTip": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\UtilityBasedAIUsage\\Program.cs",
+              "RelativeToolTip": "UtilityBasedAIUsage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:28:01.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterAI.cs",
+              "DocumentMoniker": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\UtilityBasedAI\\CharacterAI.cs",
+              "RelativeDocumentMoniker": "UtilityBasedAI\\CharacterAI.cs",
+              "ToolTip": "E:\\SourceTreeRepositories\\UtilityBasedAILib\\UtilityBasedAI\\UtilityBasedAI\\CharacterAI.cs",
+              "RelativeToolTip": "UtilityBasedAI\\CharacterAI.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:23:23.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+E:\SourceTreeRepositories\UtilityBasedAILib\UtilityBasedAI\UtilityBasedAI\bin\Debug\net8.0\UtilityBasedAI.deps.json
+E:\SourceTreeRepositories\UtilityBasedAILib\UtilityBasedAI\UtilityBasedAI\bin\Debug\net8.0\UtilityBasedAI.dll
+E:\SourceTreeRepositories\UtilityBasedAILib\UtilityBasedAI\UtilityBasedAI\bin\Debug\net8.0\UtilityBasedAI.pdb
+E:\SourceTreeRepositories\UtilityBasedAILib\UtilityBasedAI\UtilityBasedAI\obj\Debug\net8.0\UtilityBasedAI.GeneratedMSBuildEditorConfig.editorconfig
+E:\SourceTreeRepositories\UtilityBasedAILib\UtilityBasedAI\UtilityBasedAI\obj\Debug\net8.0\UtilityBasedAI.AssemblyInfoInputs.cache
+E:\SourceTreeRepositories\UtilityBasedAILib\UtilityBasedAI\UtilityBasedAI\obj\Debug\net8.0\UtilityBasedAI.AssemblyInfo.cs
+E:\SourceTreeRepositories\UtilityBasedAILib\UtilityBasedAI\UtilityBasedAI\obj\Debug\net8.0\UtilityBasedAI.csproj.CoreCompileInputs.cache
+E:\SourceTreeRepositories\UtilityBasedAILib\UtilityBasedAI\UtilityBasedAI\obj\Debug\net8.0\UtilityBasedAI.sourcelink.json
+E:\SourceTreeRepositories\UtilityBasedAILib\UtilityBasedAI\UtilityBasedAI\obj\Debug\net8.0\UtilityBasedAI.dll
+E:\SourceTreeRepositories\UtilityBasedAILib\UtilityBasedAI\UtilityBasedAI\obj\Debug\net8.0\refint\UtilityBasedAI.dll
+E:\SourceTreeRepositories\UtilityBasedAILib\UtilityBasedAI\UtilityBasedAI\obj\Debug\net8.0\UtilityBasedAI.pdb
+E:\SourceTreeRepositories\UtilityBasedAILib\UtilityBasedAI\UtilityBasedAI\obj\Debug\net8.0\ref\UtilityBasedAI.dll

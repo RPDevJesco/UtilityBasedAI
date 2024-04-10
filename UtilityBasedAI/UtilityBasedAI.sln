@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityBasedAI", "UtilityBasedAI\UtilityBasedAI.csproj", "{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityBasedAIUsage", "UtilityBasedAIUsage\UtilityBasedAIUsage.csproj", "{F8B8A216-C53F-4582-9AA5-2495747B175A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192AAC18-06A4-4EFD-8AA0-1F7EA05CB017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B8A216-C53F-4582-9AA5-2495747B175A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B8A216-C53F-4582-9AA5-2495747B175A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B8A216-C53F-4582-9AA5-2495747B175A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B8A216-C53F-4582-9AA5-2495747B175A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C85A66E-8D38-44DC-AEA4-DE48D16F80A6}
+	EndGlobalSection
+EndGlobal
